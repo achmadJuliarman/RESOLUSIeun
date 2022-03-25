@@ -1,2 +1,4 @@
 RENCANA
 1. Java OOP,GUI,liblary antimainstream
+2. API 
+3. dan rahasia
